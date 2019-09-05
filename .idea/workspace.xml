@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7ed7ce87-10e5-4e99-82c5-512f1e74e933" name="默认" comment="">
       <change afterPath="$PROJECT_DIR$/public/layui/src/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/layui" beforeDir="false" afterPath="$PROJECT_DIR$/public/layui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/layui/examples/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/layui/examples/admin.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +44,63 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/git学习资料.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
+            <state relative-caret-position="-286">
               <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/app/Http/Controllers/WxController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="686">
+              <caret line="237" column="25" selection-start-line="237" selection-start-column="25" selection-end-line="237" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="244" column="45" selection-start-line="244" selection-start-column="45" selection-end-line="244" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/resources/views/at.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/app/Http/Controllers/SxController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1014" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/app/Http/Controllers/MakeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="72" column="55" selection-start-line="72" selection-start-column="55" selection-end-line="72" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/resources/views/ls.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -59,12 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="&lt;c75e1e40-cd68-41ae-abb0-cbe2d82446b7&gt;/app/Http/Controllers/ArticlesController.php" />
-        <option value="&lt;c75e1e40-cd68-41ae-abb0-cbe2d82446b7&gt;/resources/views/articles/articles_list.blade.php" />
-        <option value="&lt;c75e1e40-cd68-41ae-abb0-cbe2d82446b7&gt;/resources/views/carousels/carousels_add.blade.php" />
-        <option value="&lt;c75e1e40-cd68-41ae-abb0-cbe2d82446b7&gt;/resources/views/carousels/carousels_update.blade.php" />
-        <option value="&lt;c75e1e40-cd68-41ae-abb0-cbe2d82446b7&gt;/app/Http/Controllers/CarouselsController.php" />
-        <option value="&lt;c75e1e40-cd68-41ae-abb0-cbe2d82446b7&gt;/resources/views/carousels/carousels_list.blade.php" />
         <option value="&lt;1e89b4ed-1697-47b8-b28f-88defcf4e2d4&gt;/resources/views/add.blade.php" />
         <option value="&lt;1e89b4ed-1697-47b8-b28f-88defcf4e2d4&gt;/resources/views/show.blade.php" />
         <option value="&lt;1e89b4ed-1697-47b8-b28f-88defcf4e2d4&gt;/resources/views/shows.blade.php" />
@@ -110,6 +164,12 @@
         <option value="&lt;6a19e5de-c80c-4421-aecf-e9e8274610fc&gt;/app/Http/Controllers/MakeController.php" />
         <option value="&lt;6a19e5de-c80c-4421-aecf-e9e8274610fc&gt;/resources/views/list/list.blade.php" />
         <option value="$USER_HOME$/.ssh/id_rsa.pub" />
+        <option value="&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/resources/views/ls.blade.php" />
+        <option value="&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/app/Http/Controllers/LeaveController.php" />
+        <option value="&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/app/Http/Controllers/WxController.php" />
+        <option value="&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/routes/web.php" />
+        <option value="&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/app/Http/Controllers/MakeController.php" />
+        <option value="&lt;30b4e6f1-79a6-4bab-bc62-230756c7c278&gt;/resources/views/at.blade.php" />
       </list>
     </option>
   </component>
@@ -198,7 +258,7 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/version" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1785" />
@@ -350,12 +410,12 @@
       <workItem from="1567415349432" duration="596000" />
       <workItem from="1567472256898" duration="25000" />
       <workItem from="1567558088081" duration="8790000" />
-      <workItem from="1567643819971" duration="186000" />
+      <workItem from="1567643819971" duration="2414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217129000" />
+    <option name="totallyTimeSpent" value="219357000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,6 +428,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" weight="0.17004265" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.2707889" />
@@ -748,7 +809,7 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/git学习资料.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
+        <state relative-caret-position="-286">
           <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
         </state>
       </provider>
