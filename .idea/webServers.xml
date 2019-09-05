@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8c03114d-2005-44c5-8551-b46d41ee3648" name="111" url="http://47.95.210.208">
+        <fileTransfer host="47.95.210.208" port="21" rootFolder="/home/wwwroot/default/xx" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="968d25ea-d249-471d-9d61-5ccd88af9669" name="4" url="http://47.95.210.208">
+        <fileTransfer host="47.95.210.208" port="22" rootFolder="/home/wwwroot/default/xx" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6a19e5de-c80c-4421-aecf-e9e8274610fc" name="xiao" url="http://47.95.210.208">
+        <fileTransfer host="47.95.210.208" port="22" rootFolder="/home/wwwroot/default/xx" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
